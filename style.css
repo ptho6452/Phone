@@ -1,0 +1,39 @@
+.card-group{
+
+    gap: 20px;
+    
+}
+.card{
+    width: 250px;
+    height: 440px;
+}
+#phone_img img {
+    margin-left:10%;
+    width: 300px;
+    height: 280px;
+}
+.start {
+    color: orange;
+}
+.title{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    color:#ffff;
+    font-size: 34px;
+    background-color:red;
+    border-radius: 40px;
+}
+#price{
+    color: red;
+}
+#bt1{
+    display:block;margin-left:93%;
+  
+    border-radius: 60%;
+    width: 8%;
+    height: 8%;
+}
+#name{
+    color: blueviolet;
+}
